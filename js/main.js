@@ -37,7 +37,7 @@ const goShare = () => goTo('share');
 const copy = () => {
   const tmp = document.createElement('textarea');
   document.body.appendChild(tmp);
-  tmp.value = url;
+  tmp.value = 'https://joomal.github.io/grow-ur-monster';
   tmp.select();
   document.execCommand('copy');
   document.body.removeChild(tmp);
@@ -90,7 +90,7 @@ const goResult = () => {
   const animal = document.querySelector('.result');
   const desc = document.querySelector('.res');
 
-  pTitle.innerHTML = u_name.value + ' 님의 점수는...';
+  pTitle.innerHTML = u_name.value + ' 님의 몬스터는...';
   res_point.innerHTML = point + '점';
   pin.style.marginLeft = infoList[grade].mLeft;
   res_img.src = img_url;
