@@ -1,20 +1,21 @@
 const qnaList = [
   {
-    q: '1. 하루 중 컨디션이 제일 좋은 시간은?',
+    q: '1. 내 가족이 될 몬스터 아가를 만나러 가는 중이야. 나만의 몬스터를 어떤 케이지에 데려올까?',
     a: [
-      { answer: 'a. 아침', score: 2 },
-      { answer: 'b. 낮부터 이른 저녁', score: 4 },
-      { answer: 'c. 늦은 밤', score: 6 }
+      { answer: 'a. 몽실몽실 솜뭉치 같은 케이지', score: 2 },
+      { answer: 'a. 몽실몽실 솜뭉치 같은 케이지', score: 4 },
+      { answer: 'c. 어제 만난 삼색 고양이를 닮은 얼룩덜룩한 케이지', score: 6 }
+      { answer : 'd. 노을지는 석양을 닮은 오묘한 보라색 케이지', score: 8}
     ]
   },
   {
     q: '2. 보통 어떻게 걸으시나요?',
     a: [
-      { answer: 'a. 큰 보폭으로 빨리', score: 6 },
+      { answer: 'a. 큰 보폭으로 빨리', score: 2 },
       { answer: 'b. 좁은 보폭으로 빨리', score: 4 },
-      { answer: 'c. 고개를 들고 보통 속도로', score: 7 },
-      { answer: 'd. 고개를 숙이고 보통 속도로', score: 2 },
-      { answer: 'e. 느린 속도로', score: 1 }
+      { answer: 'c. 고개를 들고 보통 속도로', score: 6 },
+      { answer: 'd. 고개를 숙이고 보통 속도로', score: 8 },
+      { answer: 'e. 느린 속도로', score: 10 }
     ]
   },
   {
