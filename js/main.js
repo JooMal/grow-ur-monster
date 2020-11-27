@@ -91,7 +91,7 @@ const goResult = () => {
   const desc = document.querySelector('.res');
 
   pTitle.innerHTML = u_name.value + ' 님의 몬스터는...';
-  res_point.innerHTML = point + '점';
+  //res_point.innerHTML = point + '점';
   pin.style.marginLeft = infoList[grade].mLeft;
   res_img.src = img_url;
   res_img.alt = infoList[grade].name;
