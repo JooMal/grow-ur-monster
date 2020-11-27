@@ -23,15 +23,15 @@ const qnaList = [
     a: [
       { answer: 'a. 라일락 향기가 물씬 나는 봄이야!', score: 4 },
       { answer: 'b. 매력적인 장미 향기가 나는 여름이야!', score: 2 },
-      { answer: 'c. 오색빛깔 낙엽이 흐드러진 가을이야!', score: 3 },
-      { answer: 'd. 온 세상이 전부 새하얀 겨울이야!', score: 5 }
+      { answer: 'c. 오색빛깔 낙엽이 흐드러진 가을이야!', score: 5 },
+      { answer: 'd. 온 세상이 전부 새하얀 겨울이야!', score: 7 }
     ]
   },
   {
     q: '4. 몬스터의 식사시간이다! 오늘 점심은 몬스터가 가장 좋아하는 특별식을 줘야지',
     a: [
-      { answer: 'a. 노른자가 탱글탱글한 계란 후라이가 올라간 볶음밥', score: 4 },
-      { answer: 'b. 꾸덕한 치즈가 올라간 토마토 파스타', score: 3 },
+      { answer: 'a. 노른자가 탱글탱글한 계란 후라이가 올라간 볶음밥', score: 6 },
+      { answer: 'b. 꾸덕한 치즈가 올라간 토마토 파스타', score: 4 },
       { answer: 'c. 힘이 불끈불끈 솟는 스테이크', score: 2 },
       { answer: 'd. 간장 소스로 볶은 따뜻한 닭고기 덮밥', score: 1 }
     ]
@@ -51,7 +51,7 @@ const qnaList = [
     a: [
       { answer: 'a. 고소하고 달달한 향이 나는 버터 쿠키', score: 6 },
       { answer: 'b. 새콤달콤하고 시원한 귤', score: 4 },
-      { answer: 'c. 혀에 닿으면 사르르 녹아버리는 마카롱', score: 2 },
+      { answer: 'c. 혀에 닿으면 사르르 녹아버리는 마카롱', score: 7 },
       { answer: 'd. 고소하고 짭쪼름한 소금을 묻힌 아몬드', score: 3 },
       { answer: 'e. 버터 크림과 메이플 시럽이 발라진 크로아상', score: 1 }
     ]
@@ -61,7 +61,7 @@ const qnaList = [
     a: [
       { answer: 'a. 물에 들어가는 순간 우주가 펼쳐지는 컬러풀한 배스밤', score: 3 },
       { answer: 'b. 피로가 싹 풀리고 향이 좋은 배스 쏠트', score: 1 },
-      { answer: 'c. 달달한 바닐라향이 나는 아로마 오일', score: 4 }
+      { answer: 'c. 달달한 바닐라향이 나는 아로마 오일', score: 7 }
     ]
   },
   {
@@ -69,7 +69,7 @@ const qnaList = [
     a: [
       { answer: 'a. 달콤하고 시원한 복숭아 맛 아이스티', score: 6 },
       { answer: 'b. 입 안이 달달해지는 진한 초콜렛 밀크', score: 5 },
-      { answer: 'c. 하얀 각설탕이 들어간 향긋한 홍차', score: 4 },
+      { answer: 'c. 하얀 각설탕이 들어간 향긋한 홍차', score: 7 },
       { answer: 'd. 아카시아 꿀을 한 숟가락 넣은 따뜻한 우유', score: 3 },
       { answer: 'e. 상큼한 맛이 톡 쏘는 라임 스파클링 에이드', score: 1 }
     ]
@@ -79,7 +79,7 @@ const qnaList = [
     a: [
       { answer: 'a. 따뜻하고 조용한 동굴', score: 1 },
       { answer: 'b. 내가 쌓아올린 담요더미', score: 3 },
-      { answer: 'c. 향긋하고 아름다운 꽃밭', score: 4 },
+      { answer: 'c. 향긋하고 아름다운 꽃밭', score: 5 },
       { answer: 'd. 색색깔의 쿠션이 있는 원목 침대', score: 2 }
     ]
   },
@@ -90,7 +90,7 @@ const qnaList = [
       { answer: 'b. 친구를 만들고 싶어하는 소심한 용 이야기', score: 1 },
       { answer: 'c. 세상에서 가장 멋진 용사가 되고 싶은 토끼 이야기', score: 2 },
       { answer: 'd. 엄마와 달콤한 빵을 만드는 곰 이야기 ', score: 4 },
-      { answer: 'e. 처음으로 바다를 만나는 낙타 이야기', score: 5 }
+      { answer: 'e. 처음으로 바다를 만나는 낙타 이야기', score: 7 }
     ]
   }
 ]
